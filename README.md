@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/symfony-console
 
-Tyhp type definitions for `symfony/console` `7.4.19`.
+Tyhp type definitions for `symfony/console` `8.1.7`.
 
 ```bash
-composer require --dev tyhpdef/symfony-console:7.4.19
+composer require --dev tyhpdef/symfony-console:8.1.7
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/symfony-console-impl` (type files).
